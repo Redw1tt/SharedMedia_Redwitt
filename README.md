@@ -1,4 +1,4 @@
-#SharedMedia by Redwitt
+# SharedMedia by Redwitt
 
 Custom SharedMedia with Fonts and Bar Textures
 Add sound effect "For the Horde" in Bloodlust.
